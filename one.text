@@ -1,1 +1,14 @@
-hi, hello
+<!DOCTYPE html>
+<html>
+<head>
+<title> Hello World!</title>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
+
+<h1>Hello World!</h1>
+<div><img src="/home/gorak/Downloads/60002.20200327190231.jpg"></div>
+<p>This is my first repository for git hub.</p>
+<p>This file show to how to merging work.</p>
+<div> <img src="/home/gorak/Downloads/flow.jpg"></div>
+</body>
